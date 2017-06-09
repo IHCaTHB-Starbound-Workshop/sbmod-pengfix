@@ -7,7 +7,7 @@
   "globalOffset" : [0.0, -5.5],
 
   "headRunOffset" : [0, 0],
-  "headSwimOffset" : [2, 2],
+  "headSwimOffset" : [2, 0],
 
   // Offset for hair and chest when running or falling
   "runFallOffset" : 0,
@@ -33,10 +33,10 @@
 
   "swimBob" : [0, -1, -2, -1, 0, 0, 0],
 
-  "frontArmRotationCenter" : [-4, -5],
-  "backArmRotationCenter" : [-3, -5],
+  "frontArmRotationCenter" : [-4, 0],
+  "backArmRotationCenter" : [-3, 0],
   // The anchor for items held in the front hand
-  "frontHandPosition" : [-2, -5],
+  "frontHandPosition" : [-2, 0],
 
   // The pixel difference between the front and back arms, all data for the
   // back arm is calculated by adding this offset to the front arm values.
