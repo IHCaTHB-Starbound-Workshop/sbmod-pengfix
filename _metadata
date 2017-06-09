@@ -1,0 +1,10 @@
+{
+  "version" : "0.1",
+  "author" : "IHCaTHB",
+  "description" : "",
+  "requires" : [],
+  "name" : "PENGFIX.IHC",
+  "friendlyName" : "Penguin Portrait Fix",
+  "priority" : 0,
+  "includes" : ["PenguinPiracyMod"]
+}
