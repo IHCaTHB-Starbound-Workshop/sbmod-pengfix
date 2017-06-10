@@ -4,7 +4,7 @@
   // Offset applied to all pieces.  Half a pixel up to correct for the humanoid
   // frames being an odd number of pixels, so the bottom of the collision poly
   // would otherwise be not at a whole pixel boundary.
-  "globalOffset" : [0.0, -5.5],
+  "globalOffset" : [0, -5.5],
 
   "headRunOffset" : [0, 0],
   "headSwimOffset" : [2, 0],
@@ -15,10 +15,10 @@
   "duckOffset" : 0,
   "headDuckOffset" : [1, 0],
 
-  "sitOffset" : -1,
-  "layOffset" : -1,
+  "sitOffset" : 0,
+  "layOffset" : 0,
   "headSitOffset" : [0, 0],
-  "headLayOffset" : [0, 0],
+  "headLayOffset" : [5, -5],
 
   "recoilOffset" : [-1, 0],
 

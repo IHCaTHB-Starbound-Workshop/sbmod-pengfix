@@ -17,7 +17,9 @@
   "aliases" : {
     "swim.6" : "swimIdle.1",
     "swim.7" : "swimIdle.2",
-    "sit.1" : "idle.1",
-    "lay.1" : "idle.1"
+    "sit.1" : "idle.1"
+  },
+  "frameList":{
+    "lay.1":[334, 43 ,387, 86]
   }
 }

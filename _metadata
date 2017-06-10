@@ -6,5 +6,5 @@
   "name" : "PENGFIX.IHC",
   "friendlyName" : "Penguin Portrait Fix",
   "priority" : 0,
-  "includes" : ["PenguinPiracy"]
+  "includes" : ["PenguinPiracyMod"]
 }

@@ -16,7 +16,9 @@
     "swimIdle.2" : "swimIdle.1",
     "swim.5" : "swimIdle.1",
     "swim.6" : "swimIdle.1",
-    "swim.7" : "swimIdle.1",
-    "lay.1" : "run.8"
+    "swim.7" : "swimIdle.1"
+  },
+  "frameList":{
+    "lay.1":[334, 43 ,387, 86]
   }
 }
