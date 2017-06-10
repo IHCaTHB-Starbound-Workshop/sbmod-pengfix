@@ -1,6 +1,9 @@
 # sbmod-pengfix
 # changelog
 
+### v0.3 2017-06-10
+* frame files fixed for sleep animation
+
 ### v0.2a 2017-06-09 15:30
 * update includes
 
