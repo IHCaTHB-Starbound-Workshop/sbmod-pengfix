@@ -22,7 +22,7 @@
   {
     "op":"replace",
     "path":"/headLayOffset",
-    "value": [5, 0]
+    "value": [0, 0]
   },
   {
     "op":"replace",
